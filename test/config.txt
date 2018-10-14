@@ -1,0 +1,6 @@
+infile_sip=../data/sip.txt
+infile_due=../data/due.txt
+infile_inv=../data/inv.txt
+outfile_due=../op/newDues.txt
+displayTable_fieldWidth=3
+
